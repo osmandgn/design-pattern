@@ -1,4 +1,4 @@
-package CreationalDP.FactoryDP;
+package CreationalDP.FactoryDP.ShapeEx;
 
 public class FactoryPatternDemo {
 
