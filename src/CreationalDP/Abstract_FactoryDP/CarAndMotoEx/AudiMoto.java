@@ -11,7 +11,7 @@ public class AudiMoto implements Motor{
 
     @Override
     public String getType() {
-        return "AudiMoto";
+        return "Audi Moto";
     }
 
     @Override

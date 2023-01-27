@@ -12,7 +12,7 @@ public class BMWMotor implements Motor{
 
     @Override
     public String getType() {
-        return null;
+        return "BMW Moto";
     }
 
     @Override
