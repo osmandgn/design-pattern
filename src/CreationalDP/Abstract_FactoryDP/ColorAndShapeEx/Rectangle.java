@@ -1,4 +1,4 @@
-package CreationalDP.Abstract_FactoryDP;
+package CreationalDP.Abstract_FactoryDP.ColorAndShapeEx;
 
 public class Rectangle implements Shape {
     @Override

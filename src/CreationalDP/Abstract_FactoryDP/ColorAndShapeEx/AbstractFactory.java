@@ -1,4 +1,4 @@
-package CreationalDP.Abstract_FactoryDP;
+package CreationalDP.Abstract_FactoryDP.ColorAndShapeEx;
 
 public abstract class AbstractFactory {
     abstract Color getColor(String color);
