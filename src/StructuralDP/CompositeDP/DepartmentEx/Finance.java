@@ -1,4 +1,4 @@
-package StructuralDP.CompositeDP;
+package StructuralDP.CompositeDP.DepartmentEx;
 
 import java.util.*;
 

@@ -1,6 +1,5 @@
-package StructuralDP.CompositeDP;
+package StructuralDP.CompositeDP.DepartmentEx;
 
-import java.awt.*;
 import java.util.*;
 
 public class CompositeRunner {
